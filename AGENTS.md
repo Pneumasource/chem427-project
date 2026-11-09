@@ -28,6 +28,6 @@ When the student asks for a plan, give it in words and write no code until the s
 
 The student replaces the three lines below and adds a line each time they correct the assistant on the same point twice.
 
-- Question: (one sentence)
-- Data: (the file in `data/`, what one row is, and its source URL and access date)
-- Measured variable: (its column name and unit)
+- Question: Which precursor concentrations set the thickness of the cesium lead bromide nanoplatelets a synthesis makes, does a model that predicts the product survive a test on whole plates it has never seen, and how does the exciton energy depend on thickness?
+- Data: data/CsPbBr_synthesis with initial solution amount rows for OLA, Pb, OA, Cs, and Br; source: https://doi.org/10.6078/D1XT4F - accessed 11/8/2026
+- Measured variable: Concentration columns ['[OLA]', '[Pb]', '[OA]', '[Cs]', '[Br]'] with units of mM (millimolar)
