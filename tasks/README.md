@@ -26,6 +26,8 @@ Newest first. Change the link to `archive/NNN-slug.md` when a task moves.
 
 | Number | Task | Status | Due |
 |---|---|---|---|
+| 005 | [The duplicated absorbance spectra of p7 and p8](005-p7-p8-duplicate-absorbance.md) | active | YYYY-MM-DD |
+| 004 | [Choose `PURITY_MIN`](004-purity-threshold.md) | active | YYYY-MM-DD |
 | 003 | [Topic declaration](003-topic-declaration.md) | active | 2026-11-08 |
 | 002 | [Copy the course environment](002-environment.md) | active | 2026-11-01 |
 | 001 | [Write `.gitignore`](001-gitignore.md) | active | 2026-11-01 |
